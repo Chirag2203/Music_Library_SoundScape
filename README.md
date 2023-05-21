@@ -25,6 +25,14 @@
 - Delete user and artist profile
 - See number of likes on any songs
 
+## To Run the program
+- Download Xampp
+- Clone this directory into htdocs folder inside the xampp
+- Open php and mysql server from xampp control panel
+- Open the mysql admin panel and add the database
+- Run the file from browser as localhost/foldername
+
+
 
 
 
